@@ -8,14 +8,14 @@
     "text": "Chaitali Patel"
   },
   "text": {
-    "more": "The nodes are Head category and sub category and egdes are relstionship between them.",
-    "intro": "Spaced Database Head Category/ Sub category",
+    "more": "The nodes are sub category and facebook full name and egdes are relstionship between them.",
+    "intro": "Spaced Database Facebook Full Name Visulization",
     "title": "Spaced Linkdln Database"
   },
   "legend": {
     "edgeLabel": "Relationship",
     "colorLabel": "Grey",
-    "nodeLabel": "Head category/ sub category"
+    "nodeLabel": "Category/ Facebook Fullname"
   },
   "features": {
     "search": true,
